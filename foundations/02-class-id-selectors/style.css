@@ -1,0 +1,18 @@
+/* styles.css */
+
+.odd {
+    background-color: rgb(245, 214, 219);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+#second-bullet {
+    color:rgb(73, 73, 253);
+    font-size: 36px;
+}
+.third-bullet{
+    font-size: 24px;
+}
+#fourth-bullet{
+    background-color: rgb(192, 235, 192);
+    font-size: 24px;
+    font-weight: bold;
+}
